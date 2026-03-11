@@ -1,0 +1,9 @@
+{
+  "model_version": "rf_v1",
+  "dataset_path": "data/heart_disease_uci.csv",
+  "target_col": "num",
+  "n_rows": 920,
+  "n_features": 14,
+  "roc_auc_test": 0.9298780487804877,
+  "notes": "Binary target: num>0"
+}
